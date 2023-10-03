@@ -1,0 +1,10 @@
+UI_FR = {
+	UI_ModManager_LoadOrder = "Ordre de chargement des modules (amélioré)",
+	UI_ModManager_LoadOrder_Info = "Les mods seront chargés dans l'ordre de haut en bas. Les mods les plus proches du haut de la liste seront chargés en premier. Si deux mods écrasent le même fichier, alors le fichier du mod chargé le plus tard sera utilisé. <LINE> <LINE> Vous DEVEZ modifier cela pour résoudre certains conflits et erreurs, car la priorité est importante dans de nombreux cas. Cependant, sachez que le jeu charge les fichiers Lua individuels de tous les mods dans un ordre alphanumérique, distinct de l'ordre de chargement des mods. Vérifiez toujours votre ordre de chargement.",
+	UI_ModManager_LoadOrder_Button_MoveUp25 = "Déplacer vers le haut de 25",
+	UI_ModManager_LoadOrder_Button_MoveUp10 = "Déplacer vers le haut de 10",
+	UI_ModManager_LoadOrder_Button_MoveUp5 = "Déplacer vers le haut de 5",
+	UI_ModManager_LoadOrder_Button_MoveDown5 = "Déplacer vers le bas de 5",
+	UI_ModManager_LoadOrder_Button_MoveDown10 = "Déplacer vers le bas de 10",
+	UI_ModManager_LoadOrder_Button_MoveDown25 = "Déplacer vers le bas de 25",
+}
